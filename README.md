@@ -33,7 +33,7 @@
 ## 🧩 Languages I Use
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildubey&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikonus&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/nikhildubey">
+<a href="https://github.com/Nikonus">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 <a href="#">
