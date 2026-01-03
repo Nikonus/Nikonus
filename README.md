@@ -1,110 +1,70 @@
-<h1 align="center">Hey 👋, I'm Nikhil Dubey</h1>
-<h3 align="center">Backend Developer • JavaScript Engineer • System Builder</h3>
+# Hey 👋, I'm Nikhil Dubey  
+Welcome to my GitHub Profile  
+⚡ Backend Engineer • JavaScript Specialist • System Builder ⚡  
 
-<p align="center">
-⚡ I build real backend systems, not just demos ⚡  
+---
+
+## 🛠️ Tools I Use
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,git,github,postman,cloudinary,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Languages Known
 
-- 🔐 Building **production-grade authentication systems**
-- 🧩 Working on **Y_PROJECT (Full-Stack SaaS Backend)**
-- 🛠 Focused on **Node.js, Express, MongoDB, JWT, Cloudinary**
-- 🚀 Learning how **real systems work internally**
-- 🎯 Goal: Become a **top-tier backend engineer**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-FFB000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+<p align="left">
+<img src="https://github-readme-stats-zeta-snowy-98.vercel.app/api/top-langs/?username=Nikonus&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Languages I Use
+## 💻 OS Compatibility
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikonus&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 💻 OS & Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Nikonus">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/nikhil-dubey-1a955a333/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Stats  
+**Metrics**
+
+<p align="left">
+<img src="https://github-readme-stats-zeta-snowy-98.vercel.app/api?username=Nikonus&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 👨🏻‍💻 WakaTime Stats
+
+> Shows how much **real coding** I do (not fake commits)
+
+<p align="left">
+<img src="https://github-readme-stats-zeta-snowy-98.vercel.app/api/wakatime?username=Nikonus&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📋 Badges
+
+<p align="left">
+<a href="https://holopin.io/@Nikonus">
+<img src="https://holopin.me/nikonus" />
 </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nikonus&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikonus&theme=tokyonight"/>
-</p>
-
----
-
-## 👨‍💻 Development Philosophy
-
-> I do not chase frameworks.  
-> I chase **understanding how systems really work**.
-
-I focus on:
-- Authentication  
-- API design  
-- Security  
-- Scalable architecture  
-- Clean Git workflows  
-
-This is how real engineers are built.
-
----
-
-## ⭐ Current Flagship Project
-
-### 🔥 **Y_PROJECT**
-A production-grade backend with:
-- JWT + Refresh Tokens
-- Secure cookies
-- Cloudinary uploads
-- Protected routes
-- MongoDB user management
-
----
-
-<p align="center">
-🚀 *Building myself into a world-class backend engineer*  
-</p>
